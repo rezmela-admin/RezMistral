@@ -1,0 +1,1 @@
+curl -X POST "http://localhost:8888/.netlify/functions/mistral-handler" -H "Content-Type: application/json" -d "{\"model\": \"mistral-tiny\", \"messages\": [{\"role\": \"user\", \"content\": \"Write a poem on the Physics\"}]}"

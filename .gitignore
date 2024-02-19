@@ -1,0 +1,17 @@
+# Dependency directory
+node_modules/
+
+# Netlify folder
+.netlify/
+
+# Build output
+build/
+dist/
+
+# Environment variables
+.env
+
+# Other common ignores
+.DS_Store
+Thumbs.db
+

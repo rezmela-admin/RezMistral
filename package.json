@@ -1,0 +1,16 @@
+{
+          "name": "mistral-middleware",
+          "version": "1.0.0",
+          "description": "Middleware for Mistral AI API",
+          "main": "index.js",
+          "scripts": {
+                    "start": "netlify dev"
+          },
+          "dependencies": {
+                    "axios": "^0.21.4",
+                    "dotenv": "^8.2.0"
+          },
+          "devDependencies": {
+                    "netlify-cli": "^3.21.10"
+          }
+}
